@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dcoder4
+- 👋 Hi, I’m Damien!
 - 👀 I’m interested in all things AWS! I love Data and DevOps. I'm an APN AWS Ambassador which means I cant stop talking about AWS. Its an obsession!
 - 🌱 I’m currently working on projects with Managed Data Lakes to better share governed data, some DevSecOps automation, some real Big Data issues and several container projects.
 - 💞️ I’m looking to collaborate on getting better! I love serverless computing and really like to push the technology.
